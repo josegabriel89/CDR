@@ -1,0 +1,14 @@
+D:\Apuntes\Drive\net\CDR\CDR\obj\Debug\CDR.crearmiembros.resources
+D:\Apuntes\Drive\net\CDR\CDR\obj\Debug\CDR.main.resources
+D:\Apuntes\Drive\net\CDR\CDR\obj\Debug\CDR.Resources.resources
+D:\Apuntes\Drive\net\CDR\CDR\obj\Debug\CDR.vbproj.GenerateResource.Cache
+D:\Apuntes\Drive\net\CDR\CDR\obj\Debug\CDR.xml
+D:\Apuntes\Drive\net\CDR\CDR\bin\Debug\CDR.exe
+D:\Apuntes\Drive\net\CDR\CDR\bin\Debug\CDR.pdb
+D:\Apuntes\Drive\net\CDR\CDR\bin\Debug\CDR.xml
+D:\Apuntes\Drive\net\CDR\CDR\obj\Debug\CDR.exe
+D:\Apuntes\Drive\net\CDR\CDR\obj\Debug\CDR.pdb
+D:\Apuntes\Drive\net\CDR\CDR\obj\Debug\CDR.crearparcela.resources
+D:\Apuntes\Drive\net\CDR\CDR\obj\Debug\CDR.listarmiembros.resources
+D:\Apuntes\Drive\net\CDR\CDR\obj\Debug\CDR.listarparcelas.resources
+D:\Apuntes\Drive\net\CDR\CDR\bin\Debug\CDR.exe.config

@@ -1,0 +1,156 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CDR
+</name>
+</assembly>
+<members>
+<member name="T:CDR.CDRDSMiembros">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:CDR.CDRDSMiembros.miembrosDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CDR.CDRDSMiembros.miembrosRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CDR.CDRDSMiembros.miembrosRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CDR.CDRDSMiembrosTableAdapters.miembrosTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CDR.CDRDSMiembrosTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:CDR.CDRDSMiembrosTableAdapters.TableAdapterManager.UpdateUpdatedRows(CDR.CDRDSMiembros,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:CDR.CDRDSMiembrosTableAdapters.TableAdapterManager.UpdateInsertedRows(CDR.CDRDSMiembros,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:CDR.CDRDSMiembrosTableAdapters.TableAdapterManager.UpdateDeletedRows(CDR.CDRDSMiembros,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:CDR.CDRDSMiembrosTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:CDR.CDRDSMiembrosTableAdapters.TableAdapterManager.UpdateAll(CDR.CDRDSMiembros)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:CDR.CDRDSMiembrosTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:CDR.CDRDSMiembrosTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:CDR.CDRDSparcela">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:CDR.CDRDSparcela.parcelasDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:CDR.CDRDSparcela.parcelasRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:CDR.CDRDSparcela.parcelasRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:CDR.CDRDSparcelaTableAdapters.parcelasTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:CDR.CDRDSparcelaTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:CDR.CDRDSparcelaTableAdapters.TableAdapterManager.UpdateUpdatedRows(CDR.CDRDSparcela,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:CDR.CDRDSparcelaTableAdapters.TableAdapterManager.UpdateInsertedRows(CDR.CDRDSparcela,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:CDR.CDRDSparcelaTableAdapters.TableAdapterManager.UpdateDeletedRows(CDR.CDRDSparcela,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:CDR.CDRDSparcelaTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:CDR.CDRDSparcelaTableAdapters.TableAdapterManager.UpdateAll(CDR.CDRDSparcela)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:CDR.CDRDSparcelaTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:CDR.CDRDSparcelaTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:CDR.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:CDR.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:CDR.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>

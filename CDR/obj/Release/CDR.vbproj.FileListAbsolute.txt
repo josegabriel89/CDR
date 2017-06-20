@@ -1,0 +1,15 @@
+D:\Apuntes\Drive\net\CDR\CDR\bin\Release\CDR.exe.config
+D:\Apuntes\Drive\net\CDR\CDR\bin\Release\CDR.exe
+D:\Apuntes\Drive\net\CDR\CDR\bin\Release\CDR.pdb
+D:\Apuntes\Drive\net\CDR\CDR\bin\Release\CDR.xml
+D:\Apuntes\Drive\net\CDR\CDR\obj\Release\CDR.crearmiembros.resources
+D:\Apuntes\Drive\net\CDR\CDR\obj\Release\CDR.crearparcela.resources
+D:\Apuntes\Drive\net\CDR\CDR\obj\Release\CDR.listarmiembros.resources
+D:\Apuntes\Drive\net\CDR\CDR\obj\Release\CDR.listarparcelas.resources
+D:\Apuntes\Drive\net\CDR\CDR\obj\Release\CDR.main.resources
+D:\Apuntes\Drive\net\CDR\CDR\obj\Release\CDR.Resources.resources
+D:\Apuntes\Drive\net\CDR\CDR\obj\Release\CDR.vbproj.GenerateResource.Cache
+D:\Apuntes\Drive\net\CDR\CDR\obj\Release\CDR.exe
+D:\Apuntes\Drive\net\CDR\CDR\obj\Release\CDR.xml
+D:\Apuntes\Drive\net\CDR\CDR\obj\Release\CDR.pdb
+D:\Apuntes\Drive\net\CDR\CDR\obj\Release\CDR.vbprojResolveAssemblyReference.cache
